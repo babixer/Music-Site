@@ -1,0 +1,31 @@
+body {
+    background-color: #ebfffb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.navbarSection {
+    background-image: url('./white-headphone-1037992.jpg');
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+
+
+
+
+.footer {
+    background-color: #52de97;
+    min-height: 50vh;
+
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 1em 0;
+    display: inline;
+    font-size: 20px;
+
+}
